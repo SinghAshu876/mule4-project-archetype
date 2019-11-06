@@ -1,5 +1,5 @@
 api:
- id: "15687136"
+ id: "5576576576"
  http:
   listener:
    path: "/*"
@@ -39,7 +39,7 @@ appId: "004"
 common:
  requester:
   configref: "HTTP_Request_configuration_with_TLS"
-  host: "dev-int.bat.net"
+  host: "0.0.0.0"
   port: "443"
   basepath: ""
   path: "/s-common-error-handler-v2-dev/errorMappings"
